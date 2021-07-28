@@ -1,0 +1,5 @@
+git rm --cached ./car_long
+ git add ./car_long
+ git status
+git commit -m "your commit"
+git push -u origin master
